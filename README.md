@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java, C++, Python, linux, Computer System 
 - 🌱 I’m currently learning CSAPP
 - 💞️ I’m looking to collaborate on open source
-- 📫 email me deepMin@deepexplore.top
+- 📫 email me deepmin@mail.deepexplore.top
 
 <!---
 elfisworking/elfisworking is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
