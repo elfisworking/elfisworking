@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elfisworking
-- 👀 I’m interested in Java, C++, Python, linux, Computer System 
-- 🌱 I’m currently learning CSAPP
+- 👀 I’m interested in AI, C++, Python, linux, Computer System 
+- 🌱 I’m currently doing some work for LLM
 - 💞️ I’m looking to collaborate on open source
 - 📫 email me zymustb@126.com
 
